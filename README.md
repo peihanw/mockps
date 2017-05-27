@@ -3,7 +3,7 @@
 
 #### Purpose
 
-    When developing/configuring/testing/verifying HA systems, it may unnecessary to really start applications which need extra setups. The 'mockps' utility is such a tool to deceive ps checking with least effort.
+When developing/configuring/testing/verifying HA systems, it may unnecessary to really start applications which need extra setups. The 'mockps' utility is such a tool to deceive ps checking with least effort.
 
 #### Build
 
